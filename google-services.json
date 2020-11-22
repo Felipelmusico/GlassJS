@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426700593313",
+    "firebase_url": "https://glassjs-7bee3.firebaseio.com",
+    "project_id": "glassjs-7bee3",
+    "storage_bucket": "glassjs-7bee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426700593313:android:378029539e52011e6bb8e0",
+        "android_client_info": {
+          "package_name": "com.glassbox.glass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426700593313-4ku4cdmg5ic7243es9j78hniln0sr5a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQj_6wI8t427-Q6WW73F_v1AOeLMx-yNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426700593313-4ku4cdmg5ic7243es9j78hniln0sr5a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
